@@ -1,5 +1,7 @@
 I am a very adept Portal 1 speedrunner. 
+<br>
 ![Speedrun autosplits](assets/images/livesplits)
+<br>
 If you need any tips, don't try to ask me, go here:
 [ABH in Portal 1](https://www.youtube.com/watch?v=ThurKFEAZzA)
 It's a tutorial on A-Hopping, one of the most effective ways of moving quickly
