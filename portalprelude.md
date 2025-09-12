@@ -1,11 +1,11 @@
 Portal prelude de-rtxed is amazing portal content _except for the shmitty GLaDOS voice_.
 I simply love the way the game _feels_. It feels warm and inviting in many areas, but just as dark and cold
 in others. Despite this, Portal Prelude is still not the best portal mod out there. Either way, I'd like
-to share some screenshots
+to share some screenshots:
 <br>
-[](assets/images/prelude1.jpeg)
+[screenshot1](assets/images/prelude1.jpg)
 <br>
-[](assets/images/prelude2.jpeg)
+[screenshot2](assets/images/prelude2.jpg)
 <br>
-[](assets/images/prelude3.jpeg)
+[screenshot3](assets/images/prelude3.jpg)
 <br>
