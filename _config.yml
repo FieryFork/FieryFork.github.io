@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: FieryFork's Place
 description: I do things.
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: dracula/gh-pages
 plugins:
 - jekyll-remote-theme
+colorspace: orange
+
