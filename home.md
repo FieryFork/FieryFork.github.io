@@ -1,7 +1,6 @@
-    ---
-    layout: page
-    title: "home"
-    ---
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
 
 I am a Hammer mapper who has made maps for Portal 1, Portal 2, and G-Mod.
 I am also a giant fan of Shadow of the Colossus and Pokemon. I am a giant game
