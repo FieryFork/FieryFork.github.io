@@ -3,9 +3,9 @@ I simply love the way the game _feels_. It feels warm and inviting in many areas
 in others. Despite this, Portal Prelude is still not the best portal mod out there. Either way, I'd like
 to share some screenshots:
 <br>
-[screenshot1](assets/images/prelude1.jpg)
+![screenshot1](assets/images/prelude1.jpg)
 <br>
-[screenshot2](assets/images/prelude2.jpg)
+![screenshot2](assets/images/prelude2.jpg)
 <br>
-[screenshot3](assets/images/prelude3.jpg)
+![screenshot3](assets/images/prelude3.jpg)
 <br>
