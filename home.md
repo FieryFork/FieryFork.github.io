@@ -1,8 +1,3 @@
-    ---
-    layout: page
-    title: Home
-    permalink: /home/
-    ---
 #Home
 
 I am a Hammer mapper who has made maps for Portal 1, Portal 2, and G-Mod.
