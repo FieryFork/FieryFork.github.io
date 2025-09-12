@@ -1,5 +1,5 @@
 Whether you are here to stay, or passing through on your way to parts unknown, welcome to
-### FieryFork's Place
+## FieryFork's Place
 It's safer here.
 
 I am a Hammer mapper who has made maps for several different source games.
