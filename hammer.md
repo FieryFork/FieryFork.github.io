@@ -14,3 +14,10 @@ I am creating a wave defense map with hostile Vortigaunts for Garry's Mod.
 The hostility of npcs is catered towards Gordon Freeman. If you're a combine soldier, rebels shouldn't help you.
 If you're a vortigaunt enslaved by the Nihilanth, you shouln't be attacked by other free vortigaunts. ai_relationship can
 change that, adding to the immersion.
+
+### I Hate Hammer Crashes
+Whenever Hammer crashes and I lose my progress, I lose all motivation. It just makes me sad.
+### Vortigaunts Crash Portal
+Fun fact! Vortigaunt particle effects do not exist in Portal's files, resulting in a  crash when they try to attack anything.
+### Portal's Engine is a Hybrid
+Portal's engine is a mixture of HL2 Ep. 1's engine and TF2's engine.
