@@ -1,9 +1,3 @@
-    ---
-    layout: page
-    title: Hammer
-    permalink: /hammer/
-    ---
-
 # Hammer
 
 I am a very  active Hammer Mapping Community member. At the time of this writing,
