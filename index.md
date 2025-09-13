@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ekmas/cs16.css@main/css/cs16.min.css">
+</head>
 Whether you are here to stay, or passing through on your way to parts unknown, welcome to
 <h3>FieryFork's Place</h3>
 <br>
