@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ekmas/cs16.css@main/css/cs16.min.css">
+</head>
 I am a very adept Portal 1 speedrunner. 
 <br>
 ![Speedrun autosplits](assets/images/livesplits)
