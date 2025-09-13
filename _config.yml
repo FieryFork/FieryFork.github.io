@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: FieryFork's Place
 description: I do things.
-remote_theme: lewismiddleton/cayman-dark
+remote_theme:
 plugins:
 - jekyll-remote-theme
 colorspace: orange
