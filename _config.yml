@@ -1,9 +1,9 @@
 #theme: jekyll-theme-cayman
 title: FieryFork's Place
 description: I do things.
-remote_theme:
-plugins:
-- jekyll-remote-theme
+#remote_theme:
+#plugins:
+#- jekyll-remote-theme
 colorspace: orange
 github:
   is_project_page: false
