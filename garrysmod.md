@@ -1,6 +1,3 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ekmas/cs16.css@main/css/cs16.min.css">
-</head>
 # Garry's Mod
 I play Garry's Mod. I enjoy Garry's mod because of its
 sandbox elements. Garry's mod also gives me an outlet to
