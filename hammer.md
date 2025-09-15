@@ -25,7 +25,7 @@ Fun fact! Vortigaunt particle effects do not exist in Portal's files, resulting 
 Deathmatch maps are maps desinged for PvP combat. Deathmatch maps tend to lack the 
 puzzle solving elements of other varieties of creations in favor of the satisfying
 combat that arises from interesting, dynamic environments.
-#### The Basics
+#### Traversability
 Deathmatch maps need to be very traversable. If deathmatch maps aren't traversable, players won't find it fun to participate in combat.
 <br>
 Here are 4 things you can do to make your map more easily traversable:
@@ -34,6 +34,7 @@ Here are 4 things you can do to make your map more easily traversable:
 - Gamers don't look up. Don't force players to think vertically.
 - Make there be visual contrast. Without visual contrast, players will get lost.
 <br>
+#### Combat
 Deathmatch maps need to be fun to fight in. Here are 5 tips for making Garry's Mod maps fun to fight in:
 
 - Add fences. Players can fight through the gaps in fences, but their bodies don't quite make it.
