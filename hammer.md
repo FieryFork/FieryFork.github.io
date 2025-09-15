@@ -21,3 +21,9 @@ Whenever Hammer crashes and I lose my progress, I lose all motivation. It just m
 Fun fact! Vortigaunt particle effects do not exist in Portal's files, resulting in a  crash when they try to attack anything.
 ### Portal's Engine is a Hybrid
 [Portal's](portal.md) engine is a mixture of HL2 Ep. 1's engine and TF2's engine.
+### Deathmatch Maps
+Deathmatch maps are maps desinged for PvP combat. Deathmatch maps tend to lack the 
+puzzle solving elements of other varieties of creations in favor of the satisfying
+combat that arises from interesting, dynamic environments.
+## The Basics
+Deathmatch maps need to be 
