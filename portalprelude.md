@@ -7,11 +7,13 @@ to share some screenshots:
 <br>
 ![screenshot1](assets/images/prelude1.jpeg)
 <br>
-[    ](lambdacache.md)
+[.](lambdacache.md)
 <br>
 ![screenshot2](assets/images/prelude2.jpeg)
 <br>
+.
 <br>
 ![screenshot3](assets/images/prelude3.jpeg)
 <br>
+.
 <br>
