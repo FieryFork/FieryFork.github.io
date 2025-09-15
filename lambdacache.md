@@ -1,4 +1,4 @@
-# Lambda Cache 2
+# Lambda Cache
 ![](assets/images/lambda.jpeg)
 <br>
 <br>
