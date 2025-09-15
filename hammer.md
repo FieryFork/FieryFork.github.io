@@ -25,6 +25,8 @@ Fun fact! Vortigaunt particle effects do not exist in Portal's files, resulting 
 Deathmatch maps are maps desinged for PvP combat. Deathmatch maps tend to lack the 
 puzzle solving elements of other varieties of creations in favor of the satisfying
 combat that arises from interesting, dynamic environments.
+<br>
+This addon is the *best* way to play deathmatch maps in Garry's Mod: [Half-Life 2 Deathmatch](https://steamcommunity.com/sharedfiles/filedetails/?id=557213208) You don't even need friends because there are handy bots!
 #### Traversability
 Deathmatch maps need to be very traversable. If deathmatch maps aren't traversable, players won't find it fun to participate in combat.
 <br>
