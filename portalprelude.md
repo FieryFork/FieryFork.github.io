@@ -5,7 +5,7 @@ in others. Despite this, Portal Prelude is still not the best portal mod out the
 to share some screenshots:
 <br>
 <br>
-![screenshot1](assets/images/prelude1.jpeg)
+[![screenshot1](assets/images/prelude1.jpeg)](lambdacache1.md)
 <br>
 <br>
 ![screenshot2](assets/images/prelude2.jpeg)
