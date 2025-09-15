@@ -33,7 +33,6 @@ Here are 4 things you can do to make your map more easily traversable:
 - Make it clear what parts of the map are traversable.
 - Gamers don't look up. Don't force players to think vertically.
 - Make there be visual contrast. Without visual contrast, players will get lost.
-<br>
 #### Combat
 Deathmatch maps need to be fun to fight in. Here are 5 tips for making Garry's Mod maps fun to fight in:
 
