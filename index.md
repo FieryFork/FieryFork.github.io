@@ -8,5 +8,4 @@ I am also a giant fan of Shadow of the Colossus and Pokemon. Most importantly, I
 Here are some things of mine you can check out: 
 - [Hammer Mapping](hammer.md)
 - [Portal](portal.md)
-- [Portal Prelude](portalprelude.md)
 - [Garry's Mod](garrysmod.md)
