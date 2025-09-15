@@ -26,7 +26,10 @@ Deathmatch maps are maps desinged for PvP combat. Deathmatch maps tend to lack t
 puzzle solving elements of other varieties of creations in favor of the satisfying
 combat that arises from interesting, dynamic environments.
 #### The Basics
-Deathmatch maps need to be very traversable. Here are x things you can do to make your map more easily traversable:
+Deathmatch maps need to be very traversable. If deathmatch maps aren't traversable, players won't find it fun to participate in combat.
+<br>
+Here are 4 things you can do to make your map more easily traversable:
 - Add more than one door to each room.
 - Make it clear what parts of the map are traversable.
-- Gamers 
+- Gamers don't look up. Don't force players to think vertically.
+- Make there be visual contrast. Without visual contrast, players will get lost.
