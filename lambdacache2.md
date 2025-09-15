@@ -1,5 +1,7 @@
-# L2
-![lambda](assets/images/lambda.jpeg)
-You found a Lambda cache! It contains a healthkit and a grenade. There's an AR2 energy ball container, too.
+# Lambda Cache 1
+![](assets/images/lambda.jpeg)
+<br>
+<br>
+You found a Lambda cache! It contains a suit battery and a healthkit.
 <br>
 [What are Lambda Caches?](whatarl.md)
