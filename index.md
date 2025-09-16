@@ -3,8 +3,8 @@ Whether you are here to stay, or passing through on your way to parts unknown, w
 <br>
 It's safer here.
 <br>
-I am a Hammer mapper who has made maps for several different source games.
-I am also a giant fan of Shadow of the Colossus and Pokemon. Most importantly, I am a giant Valve nerd
+I am a Hammer mapper who has made maps for several different source games. Most importantly, I am a giant Valve nerd.
+<br>
 Here are some things of mine you can check out: 
 - [Hammer Mapping](hammer.md)
 - [Portal](portal.md)
