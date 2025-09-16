@@ -1,4 +1,6 @@
 ![fork logo](assets/images/fork.jpg)
+<br>
+<br>
 Whether you are here to stay, or passing through on your way to parts unknown, welcome to
 ### FieryFork's Place</h3>
 <br>
