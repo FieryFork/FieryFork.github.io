@@ -1,5 +1,6 @@
 # Portal
-I have over 200 hours in Portal 1 and 2 combined.
+*[Return Home](index.md)*<br>
+I have over 200 hours total in Portal 1 and 2 combined.
 ### Speedrunning
 I am a very adept Portal 1 speedrunner. 
 <br>
