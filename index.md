@@ -9,3 +9,4 @@ Here are some things of mine you can check out:
 - [Hammer Mapping](hammer.md)
 - [Portal](portal.md)
 - [Garry's Mod](garrysmod.md)
+- [My Music](mymusic.md)
