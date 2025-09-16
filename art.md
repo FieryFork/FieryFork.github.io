@@ -1,6 +1,8 @@
 # Art
 This is a collection of my visual art.
 ### Pixel Art
-![](art1.png)
+![](assets/images/art1.png)
 <br>
-![](art2.png)
+![](assets/images/art2.png)
+<br>
+![](assets/images/art3.png)
