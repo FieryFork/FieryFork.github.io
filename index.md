@@ -1,5 +1,5 @@
 Whether you are here to stay, or passing through on your way to parts unknown, welcome to <br>
-<img src="image.png" width="40" height="40">
+<img src="assets/images/fork.jpg" width="40" height="40">
 ### FieryFork's Place
 <br>
 It's safer here.
