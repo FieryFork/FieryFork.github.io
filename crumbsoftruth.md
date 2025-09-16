@@ -20,3 +20,5 @@ it has its fair share of Source Engine jank. There's lots of areas where you can
 <br>
 It is extremely satisfying to speedrun through, with plenty of places to use [ABH](portal.md#speedrunning) and other glitches in fun ways. Overall, Portal: Crumbs of Truth 
 is a mod that everyone should play.
+<hr>
+Check out the mod on ModDB! [Portal: Crumbs of Truth on ModDB](https://www.moddb.com/mods/portal-crumbs-of-truth)
