@@ -3,9 +3,9 @@ Whether you are here to stay, or passing through on your way to parts unknown, w
 ### FieryFork's Place
 <br>
 It's safer here.
-<br>
+<hr>
 I am a Hammer mapper who has made maps for several different source games. Most importantly, I am a giant Valve nerd.
-<br>
+<hr>
 Here are some things of mine you can check out: 
 <br>
 > [Hammer Mapping](hammer.md)
