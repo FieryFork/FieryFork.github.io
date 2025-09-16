@@ -18,3 +18,5 @@ Here are some things of mine you can check out:
 <br>
 > [3D Models](3d.md)
 <br>
+> [Art](art.md)
+<br>
