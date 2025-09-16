@@ -1,6 +1,5 @@
 <img src="assets/images/fork.jpg" width="40" height="40">
 <br>
-<br>
 Whether you are here to stay, or passing through on your way to parts unknown, welcome to
 ### FieryFork's Place</h3>
 <br>
