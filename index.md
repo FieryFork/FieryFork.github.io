@@ -7,7 +7,8 @@ It's safer here.
 I am a Hammer mapper who has made maps for several different source games. Most importantly, I am a giant Valve nerd.
 <br>
 Here are some things of mine you can check out: 
-- [Hammer Mapping](hammer.md)
-- [Portal](portal.md)
-- [Garry's Mod](garrysmod.md)
-- [My Music](mymusic.md)
+> [Hammer Mapping](hammer.md)
+> [Portal](portal.md)
+> [Garry's Mod](garrysmod.md)
+> [My Music](mymusic.md)
+> [3D Models](3d.md)
