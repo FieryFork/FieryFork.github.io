@@ -12,7 +12,7 @@ I am creating a wave defense map with hostile Vortigaunts for Garry's Mod.
 
 ### I Love ai_relationship
 The hostility of npcs is catered towards Gordon Freeman. If you're a combine soldier, rebels shouldn't help you.
-If you're a vortigaunt enslaved by the Nihilanth, you shouln't be attacked by other free Vortigaunts. ai_relationship can
+If you're a vortigaunt enslaved by the Nihilanth, you shouln't be attacked by others of your kind. ai_relationship can
 change that, adding to the immersion.
 
 ### I Hate Hammer Crashes
