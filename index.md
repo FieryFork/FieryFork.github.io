@@ -1,4 +1,4 @@
-Whether you are here to stay, or passing through on your way to parts unknown, welcome to <br>
+Whether you are here to stay, or passing through on your way to parts unknown, welcome to <br><br>
 <img src="assets/images/fork.jpg" width="40" height="40">
 ### FieryFork's Place
 <br>
