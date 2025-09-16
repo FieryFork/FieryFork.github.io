@@ -3,7 +3,9 @@ I have over 200 hours in Portal 1 and 2 combined.
 ### Speedrunning
 I am a very adept Portal 1 speedrunner. 
 <br>
-![Speedrun autosplits](assets/images/livesplits)
+<br>
+<img src="assets/images/livesplits" width="150">
+<br>
 <br>
 If you need any tips, don't try to ask me, go here:
 [ABH in Portal 1](https://www.youtube.com/watch?v=ThurKFEAZzA)
@@ -20,3 +22,4 @@ Short story long, I discoveered the files of Half Life 2 inside of Portal 1. I c
 Portal was originally going to end in Xen. This may have been supposed to imply that Aperture used Xen to make the Portal gun, but it could also imply that Aperture itself was built in Xen. These explanations are just theories and speculation, though.
 ### Portal Mods I've Played
 - [Portal Preldude](portalprelude.md)
+- [Portal: Crumbs of Truth](crumbsoftruth.md)
