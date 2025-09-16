@@ -6,6 +6,7 @@ This is the current cover for my album titled Antiquated Beat:<br>
 <br>
 *It's not a real error.*
 <br>
+<br>
 This is my peice titled *Mori in Conatu* meaning *Die Trying*. I hope to use it in a game someday. I composed the score and arranged it.
 <br>
 <audio controls>
