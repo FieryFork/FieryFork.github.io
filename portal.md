@@ -16,6 +16,6 @@ I have used Hammer in Portal ever since I discovered it in Portal 2's SDK. I had
 Short story long, I discoveered the files of Half Life 2 inside of Portal 1. I created an arena for fighting Antlions, but they were bugged and made no sound. Unfortunate. Just kidding. I got [Garry's Mod](garrysmod.md) and that was that. 😄
 
 ### The Cut Portal Ending
-Portal was originally going to end in Xen. This may have been supposed to imply that Aperture used Xen to make the Portal gun, but it could also imply that Aperture itself was built in xen. These explanations are just theories and speculation, though.
+Portal was originally going to end in Xen. This may have been supposed to imply that Aperture used Xen to make the Portal gun, but it could also imply that Aperture itself was built in Xen. These explanations are just theories and speculation, though.
 ### Portal Mods I've Played
 - [Portal Preldude](portalprelude.md)
