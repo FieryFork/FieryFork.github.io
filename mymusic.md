@@ -1,4 +1,5 @@
 # My Music
+*[Return Home](index.md)*<br>
 I make electronic music for fun to mimic the style of [Kelly Bailey](https://en.wikipedia.org/wiki/Kelly_Bailey_(composer)). I use deep synths and electronic tones to make the music sound industrial. I often use echoing drone sound effects to make the music have a certain vibe.
 <br>
 This is the current cover for my album titled Antiquated Beat:<br>
