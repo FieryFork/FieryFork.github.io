@@ -1,4 +1,4 @@
-![fork logo](assets/images/fork.jpg  | width=20)
+![fork logo](assets/images/fork.jpg "=350x")
 <br>
 <br>
 Whether you are here to stay, or passing through on your way to parts unknown, welcome to
