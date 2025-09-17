@@ -5,12 +5,12 @@ I frequently play Garry's mod. Garry's mod is a blank slate for me to put my ide
 These are some screenshots that I took while playing Garry's Mod:
 <br>
 <br>
-![](gmod1.jpeg)
+![](assets/images/gmod1.jpeg)
 <br>
 <br>
-![](gmod2.jpeg)
+![](assets/images/gmod2.jpeg)
 <br>
 <br>
-![](gmod3.jpeg)
+![](assets/images/gmod3.jpeg)
 <br>
 <br>
