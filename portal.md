@@ -2,7 +2,7 @@
 *[Return Home](index.md)*<br>
 I have over 200 hours total in Portal 1 and 2 combined.
 ### Speedrunning
-I am a very adept Portal 1 speedrunner. 
+I am a very adept Portal 1 speedrunner. I can finish the game in less than 30 minutes, which is about half way to the world record.
 <br>
 <br>
 <img src="assets/images/livesplits" width="150">
