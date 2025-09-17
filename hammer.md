@@ -47,6 +47,7 @@ Vertigo was a beta Half-Life 2 map built around a giant castle-like skyscraper. 
 It seems like a fun project to take on, due to the jank of the maps involved. They will be quite unfinished, making the end result even more satisfying. 
 I want to overhaul the skybox, detail the maps with physics props, and craft novel enemy encounters.
 <br>
+<br>
 Imagine this:
 <br>
 <br>
