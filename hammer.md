@@ -43,6 +43,11 @@ Deathmatch maps need to be fun to fight in. Here are 5 tips for making deathmatc
 - Place healthkits in areas that are uncovered. This encourages players to take risks while playing against eachother.
 - Put rare weapons in hard to access areas for players to find.
 ### Vertigo / Palace
-Vertigo was a beta Half-Life 2 map that I feel like recreating the Vertigo / Palace Half-Life 2 beta levels in Garry's mod. 
+Vertigo was a beta Half-Life 2 map built around a giant castle-like skyscraper. Gordon would have been forced to descend the tower after being forced into it. It would have taken place around the resistance sections of the game with the Overwatch Nexus Building among other things. that I feel like recreating the Vertigo / Palace Half-Life 2 beta levels in Garry's mod. 
 It seems like a fun project to take on, due to the jank of the maps involved. They will be quite unfinished, making the end result even more satisfying. 
-I want to overhaul the skybox, detail the maps with physics props, and craft novel enemy encounters. 
+I want to overhaul the skybox, detail the maps with physics props, and craft novel enemy encounters.
+<br>
+Imagine this:
+<br>
+<br>
+<center>A giant tower near the center of a sprawling city. It looks over all around it. Inside, the floors are breaking and the walls are tipping as the tedious tower stands high above the rest. One man must make his way through the tower, fighting guards and aliens as he descends the many flights of stairs to the bottom of the monolithic structure.</center>
