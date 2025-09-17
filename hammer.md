@@ -42,3 +42,7 @@ Deathmatch maps need to be fun to fight in. Here are 5 tips for making deathmatc
 - Make there be windows for players to jump through. Nothing is greater to a player than a sense of freedom. Let them go places they otherwise wouldn't be allowed to.
 - Place healthkits in areas that are uncovered. This encourages players to take risks while playing against eachother.
 - Put rare weapons in hard to access areas for players to find.
+### Vertigo / Palace
+I feel like recreating the Vertigo / Palace Half-Life 2 beta levels in Garry's mod. 
+It seems like a fun project to take on, due to the jank of the maps involved. They will be quite unfinished, making the end result even more satisfying. 
+I want to overhaul the skybox, detail the maps with physics props, and craft novel enemy encounters. 
