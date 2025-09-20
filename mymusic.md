@@ -8,7 +8,7 @@ This is the current cover for my album titled Antiquated Beat:<br>
 *It's not a real error.*
 <br>
 <br>
-This is my peice titled *Mori in Conatu* meaning *Die Trying* in Latin. I hope to use it in a game someday. I composed the score and arranged it for the Antiquated Beat album.
+This is my peice titled *Mori in Conatu* meaning *Die Trying* in Latin. I hope to use it in a game someday. I composed the score and generated it by hand for the Antiquated Beat album.
 <br>
 <audio controls>
   <source src="mori-in-conatu.mp3" type="audio/mpeg">
@@ -16,7 +16,7 @@ This is my peice titled *Mori in Conatu* meaning *Die Trying* in Latin. I hope t
 </audio>
 <br>
 <br>
-This is my peice titled *Extraterrestrial Lick Back*. The title highlights the underlying whimsical tune inside of the dark synths, similair to a multidimensional being doing something childish and foolhardy. Listen to it!
+This is my peice titled *Extraterrestrial Lick Back*. The title highlights the underlying whimsical tune inside of the dark synths, similair to a multidimensional being doing something childish and foolhardy. I composed the score and generated it by hand for the Antiquated Beat album.
 <br>
 <audio controls>
   <source src="extraterrestrial lick back.mp3" type="audio/mpeg">
