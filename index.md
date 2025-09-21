@@ -20,3 +20,4 @@ Here are some things of mine you can check out:
 <br>
 > [Art](art.md)
 <br>
+> [Required Reading](reading.md)
