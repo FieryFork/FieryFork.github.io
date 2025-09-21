@@ -15,6 +15,7 @@ This is my piece titled *Mori in Conatu* meaning *Die Trying* in Latin. I hope t
   Your browser does not support the audio element.
 </audio>
 <br>
+<a href="https://fieryfork.github.io/mymusic.html">Mori in Conatu</a> © 2025 by <a href="https://fieryfork.github.io/">Fieryfork</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 <br>
 This is my piece titled *Extraterrestrial Lick Back*. The title highlights the underlying whimsical tune inside of the dark synths, similair to a multidimensional being doing something childish and foolhardy. I composed the score and generated it by hand for the Antiquated Beat album.
 <br>
