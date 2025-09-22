@@ -8,6 +8,8 @@ I am a Hammer mapper who has made maps for several different source games. Most 
 <hr>
 Here are some things of mine you can check out: 
 <br>
+> [Game Design](game.md)
+<br>
 > [Hammer Mapping](hammer.md)
 <br>
 > [Portal](portal.md)
