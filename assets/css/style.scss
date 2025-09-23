@@ -1,1 +1,21 @@
+/* Light mode styles (default) */
+body {
+  background-color: #ffffff; /* White background */
+  color: #333333; /* Dark gray text */
+}
 
+a {
+  color: #007bff; /* Blue links */
+}
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a; /* Dark gray background */
+    color: #f0f0f0; /* Light gray text */
+  }
+
+  a {
+    color: #87ceeb; /* Light blue links */
+  }
+}
