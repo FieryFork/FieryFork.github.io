@@ -1,6 +1,5 @@
-theme:
-css:
-  - path: assets/css/style.css
+theme: just-the-docs
+color_scheme: dark
 title: FieryFork's Place
 description: I do things.
 #remote_theme:
