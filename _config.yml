@@ -1,6 +1,6 @@
 theme:
 css:
-  - path: assets/css/css.css
+  - path: assets/css/style.css
 title: FieryFork's Place
 description: I do things.
 #remote_theme:
