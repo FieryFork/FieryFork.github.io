@@ -2,10 +2,6 @@ theme: just-the-docs
 color_scheme: dark
 title: FieryFork's Place
 description: I do things.
-#remote_theme:
-#plugins:
-#- jekyll-remote-theme
-colorspace: orange
 github:
   is_project_page: false
 
