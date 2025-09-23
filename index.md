@@ -18,7 +18,7 @@ Here are some things of mine you can check out:
 <br>
 > [My Music](mymusic.md)
 <br>
-> [Games](simplephyz)
+> [Games](gamz.md)
 <br>
 > [3D Models](3d.md)
 <br>
