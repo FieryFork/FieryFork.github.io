@@ -1,2 +1,2 @@
 # Games
-- [Simplephyz](simplephyz)
+- [Simplephyz](simplephyz.html)
