@@ -28,4 +28,3 @@ Here are some things of mine you can check out:
 <br>
 <br>
 <br>
-Theme: [Simple.css](https://github.com/kevquirk/simple.css)
