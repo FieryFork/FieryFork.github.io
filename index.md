@@ -25,6 +25,3 @@ Here are some things of mine you can check out:
 > [Art](art.md)
 <br>
 > [Required Reading](reading.md)
-<br>
-<br>
-<br>
