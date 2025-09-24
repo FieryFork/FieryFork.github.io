@@ -1,8 +1,7 @@
 # Game Design
 *[Return Home](index.md)*<br>
 I take a lot of inspiration from Valve's game design. The show-don't-tell style that many Valve titles use is admirable, considering that many of their IPs are complex. This page will detail the many details that make Valve's game design so incredible.
-<br>
-<br>
+### Production
 Right off the bat, don't expect designing a game to be easy. It will be *hard*. Good games take lots of time, and rushed ones are bad. To put it in the words of Gabe Newell,
 <br>
 <br>
@@ -13,9 +12,8 @@ To make a game's content feel right, make two games and cut the bad one. In othe
 <br>
 <br>
 Cut similair things from your game. If two features are too similair or one is too niche, cut it. You don't need two of the same thing in a game.
-<br>
-<br>
-Leave some things open to speculation. Little mysteries make a game's world feel more real and open-ended. It lets players speculate as they take in information about your universe.
+### Gameplay
+Train the player. In other words, force them to solve a small version of a problem before they solve the real one. This prepares the player for action. One notable usecase of this is in the game Portal. In its escape sequence, players must learn how to solve a puzzle before they are given it.
 <br>
 <br>
 
