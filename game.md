@@ -16,7 +16,7 @@ Cut similair things from your game. If two features are too similair or one is t
 Train the player. In other words, force them to solve a small version of a problem before they solve the real one. This prepares the player for action. One notable usecase of this is in the game Portal. In its escape sequence, players must learn how to solve a puzzle before they are given it.
 <br>
 <br>
-Playtest. Playtesting allows you to remove parts of your game that feel stale or are too confusing. You already know how to do everything. Make sure it's easy to learn.
+Playtest. Playtesting allows you to remove parts of your game that feel stale or are too confusing. You already know how to do everything. Make sure it's easy to learn. Ideally, playtesters should be diverse in video game experience. They can be anybody, too. If your aunt or your uncle or your even your little cousin wants to playtest, let them. It should be noted that it is best to observe the behavior of playtesters, because they aren't always honest in their reflection.
 <br>
 <br>
 Reinforce good behavior. If players stray too far off the beaten path, punish them with a lack of gameplay. If they do what they are supposed to, give them ammunition or other resources that they might desire. That gives players a reason to play how you want, which lets you tailor gameplay to your liking.
