@@ -24,7 +24,7 @@ This is my piece titled *Extraterrestrial Lick Back*. The title highlights the u
 </audio>
 <br>
 <br>
-This is my piece titled *Kelly 2*. It uses an internal name it had for a while, so I decided to keep it.
+This is my piece titled *Kelly 2*. It uses an internal name it had for a while. I composed the score and generated it by hand for the Antiquated Beat album.
 <br>
 <audio controls>
   <source src="kelly2.mp3" type="audio/mpeg">
