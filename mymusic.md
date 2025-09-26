@@ -27,7 +27,7 @@ This is my piece titled *Extraterrestrial Lick Back*. The title highlights the u
 This is my piece titled *Kelly 2*. It uses an internal name it had for a while, so I decided to keep it.
 <br>
 <audio controls>
-  <source src="Kelly2.mp3" type="audio/mpeg">
+  <source src="kelly2.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 <br>
