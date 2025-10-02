@@ -30,6 +30,8 @@ This is my piece titled *Kelly 2*. It uses an internal name it had for a while. 
   <source src="kelly2.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+<br>
+<br>
 This is my piece titled *Noisy*. I don't know why I call it that. I composed the score and generated it by hand for the Antiquated Beat album.
 <br>
 <audio controls>
