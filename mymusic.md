@@ -8,7 +8,7 @@ This is the current cover for my album titled Antiquated Beat:<br>
 *It's not a real error.*
 <br>
 <br>
-This is my piece titled *Mori in Conatu* meaning *Die Trying* in Latin. I hope to use it in a game someday. I composed the score and generated it by hand for the Antiquated Beat album.
+This is my piece titled *Mori in Conatu* meaning *Die Trying* in Latin. I hope to use it in a game someday. I composed the score and synthesized it for the Antiquated Beat album.
 <br>
 <audio controls>
   <source src="mori-in-conatu.mp3" type="audio/mpeg">
@@ -16,7 +16,7 @@ This is my piece titled *Mori in Conatu* meaning *Die Trying* in Latin. I hope t
 </audio>
 <br>
 <br>
-This is my piece titled *Extraterrestrial Lick Back*. The title highlights the underlying whimsical tune inside of the dark synths, similair to a multidimensional being doing something childish and foolhardy. I composed the score and generated it by hand for the Antiquated Beat album.
+This is my piece titled *Extraterrestrial Lick Back*. The title highlights the underlying whimsical tune inside of the dark synths, similair to a multidimensional being doing something childish and foolhardy. I composed the score and synthesized it for the Antiquated Beat album.
 <br>
 <audio controls>
   <source src="Extraterrestrial Lick Back.mp3" type="audio/mpeg">
@@ -24,7 +24,7 @@ This is my piece titled *Extraterrestrial Lick Back*. The title highlights the u
 </audio>
 <br>
 <br>
-This is my piece titled *Kelly 2*. It uses an internal name it had for a while. I composed the score and generated it by hand for the Antiquated Beat album.
+This is my piece titled *Kelly 2*. It uses an internal name it had for a while. I composed the score and synthesized it for the Antiquated Beat album.
 <br>
 <audio controls>
   <source src="kelly2.mp3" type="audio/mpeg">
@@ -32,7 +32,7 @@ This is my piece titled *Kelly 2*. It uses an internal name it had for a while. 
 </audio>
 <br>
 <br>
-This is my piece titled *Noisy*. I don't know why I call it that. I composed the score and generated it by hand for the Antiquated Beat album.
+This is my piece titled *Noisy*. I don't know why I call it that. I composed the score and synthesized it for the Antiquated Beat album.
 <br>
 <audio controls>
   <source src="music1.mp3" type="audio/mpeg">
