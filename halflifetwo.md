@@ -12,6 +12,6 @@ Half Life 2's best chapter so far. This chapter is enjoyable to anyone who likes
 ### Water Hazard
 This chaprer only deserves to be improved. Ir plays well in the first part, but it's drawn out to an insufferable length. This chapter needs to be abridged. If that were to happen, this chapter would be better than Route Kanal.
 ### Black Mesa East
-Everything I said about A Red Letter Day applies here. You do get to play fetch with dog, so this one's a little better.
+Everything I said about A Red Letter Day applies here. You do get to play fetch with dog, so this one's a little better. Overall, the lore is very heavy in this section, and you'll be stuck playing with things for a long time if you're impatient.
 ### Ravenholm
-This chapter is a mixed bag. It's very easy to get lost in. I had to search up a video tutorial in a Valve game of all things. This level has excellent gameplay. If the horror was increased and the level was made to be more linear, this level would have a fighting chance against bangers like Route Kanal.
+This chapter is a mixed bag. The gameplay is stellar. The headcrab zombies jumping out only scared me once, but other than that, the scariness of this level _does not_ hold up today. Father Grigori is very likeable. But dang, what kind of _Sweet Home Alabama_ was going on for you to be his brother and him to be your dad. It's very easy to get lost in. I had to search up a video tutorial in a Valve game of all things. This level has excellent gameplay. _(If you can't tell that I'm joking, take things less seriously)_ If the horror was increased and the level was made to be more linear, this level would have a fighting chance against bangers like Route Kanal.
