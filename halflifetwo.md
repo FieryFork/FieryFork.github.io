@@ -4,13 +4,13 @@ A masterpiece. What else am I supposed to say? This game has peak story, gamepla
 <br>
 I will split up my review of this game by its chapters.
 ### Point Insertion
-This chapter has lots of walking. Overall, it does a good job of introducing City 17.
+This chapter has lots of walking. You're shot at by CPs in a later section, but it's impossible to fight back. This chapter doesn't have any compelling gameplay that makes it stand out. Overall, it does a good job of introducing City 17.
 ### A Red Letter Day
 This chapter is just a cutscene. It isn't very enjoyable once you know all of the story beats.
 ### Route Kanal
-Half Life 2's best chapter so far. This chapter is enjoyable to anyone who likes the Half Life 1 gameplay style.
+Half Life 2's best chapter so far. This chapter is enjoyable to anyone who likes the Half Life 1 gameplay style. You get into many firefights with CPs, this time on an even playing field. There is a lot of red barrel craziness in this chapter. This chapter doesn't have very unique or varied combat, but it is fun combat.
 ### Water Hazard
-This chaprer only deserves to be improved. Ir plays well in the first part, but it's drawn out to an insufferable length. This chapter needs to be abridged. If that were to happen, this chapter would be better than Route Kanal.
+This chaprer only deserves to be improved. Ir plays well in the first part, but it's drawn out to an insufferable length. This chapter needs to be abridged. The boat getting stuck on rocks every 5 minutes would be fine if it lasted for 25 minutes. If that were to happen, this chapter would be better than Route Kanal.
 ### Black Mesa East
 Everything I said about A Red Letter Day applies here. You do get to play fetch with dog, so this one's a little better. Overall, the lore is very heavy in this section, and you'll be stuck playing with things for a long time if you're impatient.
 ### Ravenholm
