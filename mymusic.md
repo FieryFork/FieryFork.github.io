@@ -16,7 +16,7 @@ This is my piece titled *Mori in Conatu* meaning *Die Trying* in Latin. I hope t
 </audio>
 <br>
 <br>
-This is my piece titled *Ascension*. This soung was used for a game level involving a mountain.
+This is my piece titled *Ascension*. This soung was used for a game level involving a mountain. I composed the score and synthesized it for nothing in particular.
 <br>
 <audio controls>
   <source src="Ascension.mp3" type="audio/mpeg">
