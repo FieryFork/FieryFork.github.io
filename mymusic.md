@@ -51,7 +51,7 @@ This is my piece titled *Noisy*. I don't know why I call it that. I composed the
 This is my piece titled *Industrial Ceremony*. It's called that because of the organ and the bells representing a funeral ceremony and the synths representing a working world powered by the noisy, loud machines. I composed the score and synthesized it for the Antiquated Beat album.
 <br>
 <audio controls>
-  <source src="music1.mp3" type="audio/mpeg">
+  <source src="Industrial Ceremony.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 <br>
