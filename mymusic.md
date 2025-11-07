@@ -71,6 +71,14 @@ This is my piece titled *Outbreak is Uncontained*. It's called that because of t
   Your browser does not support the audio element.
 </audio>
 <br>
+<br>
+This is my piece titled *Noisy (Groovy Mix)*. It's a remix of Noisy that adds more groove. I composed the score and synthesized it for the Antiquated Beat album.
+<br>
+<audio controls>
+  <source src="Noisy Mix 2.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+<br>
 <a href="https://fieryfork.github.io/mymusic.html">Mori in Conatu</a> © 2025 by <a href="https://fieryfork.github.io/">Fieryfork</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 <br>
 <a href="https://fieryfork.github.io/mymusic.html">Extraterrestrial Lick Back</a> © 2025 by <a href="https://fieryfork.github.io/">Fieryfork</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
@@ -86,3 +94,5 @@ This is my piece titled *Outbreak is Uncontained*. It's called that because of t
 <a href="https://fieryfork.github.io/mymusic.html">Tracer Program</a> © 2025 by <a href="https://fieryfork.github.io/">FieryFork</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 <br>
 <a href="https://fieryfork.github.io/mymusic.html">Outbreak is Uncontained</a> © 2025 by <a href="https://fieryfork.github.io/">FieryFork</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<br>
+<a href="https://fieryfork.github.io/mymusic.html">Noisy (Groovy Mix)</a> © 2025 by <a href="https://fieryfork.github.io/">FieryFork</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
