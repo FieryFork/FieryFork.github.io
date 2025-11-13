@@ -16,7 +16,7 @@ Here are some things of mine you can check out:
 <br>
 > [Garry's Mod](garrysmod.md)
 <br>
-> [My Music](mymusic.md)
+> [My Music](https://soundcloud.com/fieryfork)
 <br>
 > [Games](gamez.md)
 <br>
