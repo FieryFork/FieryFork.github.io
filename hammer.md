@@ -26,13 +26,13 @@ Deathmatch maps need to be very traversable. If deathmatch maps aren't traversab
 <br>
 Here are 4 things you can do to make your map more easily traversable:
 <br>
-> Add more than one door to each room.
+Add more than one door to each room.
 <br>
-> Make it clear what parts of the map are traversable.
+Make it clear what parts of the map are traversable.
 <br>
-> Gamers don't look up. Don't force players to think vertically.
+Gamers don't look up. Don't force players to think vertically.
 <br>
-> Make there be visual contrast. Without visual contrast, players will get lost.
+Make there be visual contrast. Without visual contrast, players will get lost.
 <br>
 These things can make your map easy to traverse.
 
