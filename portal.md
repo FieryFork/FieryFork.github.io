@@ -1,3 +1,4 @@
+<head><link rel="stylesheet" href="/assets/css/style.css"></head>
 # Portal
 *[Return Home](index.md)*<br>
 I have over 200 hours total in Portal 1 and 2 combined.
