@@ -19,3 +19,5 @@ This chapter is a mixed bag. The gameplay is stellar. The headcrab zombies jumpi
 This chapter is very good. The vehicle sections are great. They don't force any fancy tricks or physics puzzles. There are many nice firefights with excellent gunplay. The "Lighthouse Point" battle is excellent. There are lots of cool secrets and encounters littered throughout the chapter. In conclusion, this chapter is very good, but not Route Kanal good.
 ### Nova Prospekt
 This chapter has lots of _raw_ gunplay. There isn't a lot of puzzle solving, but there is combat. This chapter introduces turrets to the player. They can be taken out easily with grenades or the rocket launcher, but the gravity gun can get the job done at close range, if you're quick. In conclusion, this chapter has very little puzzle solving, but it makes up for it with the amazing combat. This chapter is just as good as Route Kanal.
+### Entanglement
+This chapter sucks. It's literally Half-Life tower defense. The wave-based format *does not* work at all for the Half-Life series. Enough said.
