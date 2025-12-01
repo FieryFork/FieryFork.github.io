@@ -29,9 +29,9 @@ Here are some things of mine you can check out:
 <br>
 <br>
 > [3D Models](3d.md)
-<br>
+<br><br>
 > [Art](art.md)
-<br>
+<br><br>
 > [Required Reading](reading.md)
-<br>
+<br><br>
 > [Half Life 2](halflifetwo.md)
