@@ -1,3 +1,4 @@
+<head><link rel="stylesheet" href="/assets/css/style.css"></head>
 # Games
 *[Return Home](index.md)*<br><br>
 [Simplephyz](simplephyz.html)
