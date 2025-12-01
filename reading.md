@@ -1,3 +1,4 @@
+<head><link rel="stylesheet" href="/assets/css/style.css"></head>
 # Required Reading
 These are books or documents that I consider to be essential reading material if you are interested in game design.
 <br>
