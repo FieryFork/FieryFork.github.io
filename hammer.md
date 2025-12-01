@@ -29,11 +29,10 @@ Here are 4 things you can do to make your map more easily traversable:
 - Make it clear what parts of the map are traversable.
 - Gamers don't look up. Don't force players to think vertically.
 - Make there be visual contrast. Without visual contrast, players will get lost.
-These things can make your map easy to traverse.
 <br>
+These things can make your map easy to traverse.
 #### Combat
 Deathmatch maps need to be fun to fight in. Here are 5 tips for making deathmatch maps fun to fight in:
-<br>
 - Add fences. Players can fight through the gaps in fences, but their bodies don't quite make it.
 - Add crates or boxes. Players love to hide behind crates or boxes. It makes there be safe spaces in otherwise open maps.
 - Make there be windows for players to jump through. Nothing is greater to a player than a sense of freedom. Let them go places they otherwise wouldn't be allowed to.
