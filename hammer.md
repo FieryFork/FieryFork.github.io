@@ -25,21 +25,16 @@ This addon is the *best* way to play deathmatch maps in Garry's Mod: [Half-Life 
 Deathmatch maps need to be very traversable. If deathmatch maps aren't traversable, players won't find it fun to participate in combat.
 <br>
 Here are 4 things you can do to make your map more easily traversable:
-- Add more than one door to each room.
-- Make it clear what parts of the map are traversable.
-- Gamers don't look up. Don't force players to think vertically.
-- Make there be visual contrast. Without visual contrast, players will get lost.
+> Add more than one door to each room.
+<br>
+> Make it clear what parts of the map are traversable.
+<br>
+> Gamers don't look up. Don't force players to think vertically.
+<br>
+> Make there be visual contrast. Without visual contrast, players will get lost.
 <br>
 These things can make your map easy to traverse.
-#### Combat
-Deathmatch maps need to be fun to fight in. Here are 5 tips for making deathmatch maps fun to fight in:
-- Add fences. Players can fight through the gaps in fences, but their bodies don't quite make it.
-- Add crates or boxes. Players love to hide behind crates or boxes. It makes there be safe spaces in otherwise open maps.
-- Make there be windows for players to jump through. Nothing is greater to a player than a sense of freedom. Let them go places they otherwise wouldn't be allowed to.
-- Place healthkits in areas that are uncovered. This encourages players to take risks while playing against eachother.
-- Put rare weapons in hard to access areas for players to find.
-<br>
-By using these techniques you csn create novel and fun gameplay content. Remember, if something isn't fun, cut it.
+
 
 
 
