@@ -216,3 +216,12 @@ img:hover {
 p {
     margin: 20px;
 }
+center {
+    font-family: Verdana;
+    color: white;
+    font-weight: 50;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+}
