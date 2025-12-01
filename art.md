@@ -1,3 +1,4 @@
+<head><link rel="stylesheet" href="/assets/css/style.css"></head>
 # Art
 *[Return Home](index.md)*<br>
 This is a collection of my visual art.
