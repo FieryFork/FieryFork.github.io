@@ -5,9 +5,7 @@ I take a lot of inspiration from Valve's game design. The show-don't-tell style 
 ### Production
 Right off the bat, don't expect designing a game to be easy. It will be *hard*. Good games take lots of time, and rushed ones are bad. To put it in the words of Gabe Newell,
 <br>
-<br>
 <center>"Late is just for a little while, suck is forever."</center>
-<br>
 <br>
 To make a game's content feel right, make two games and cut the bad one. In other words, do double what you'd like to, and then scrap any ideas or content that doesn't fit into the better half of the game.
 <br>
