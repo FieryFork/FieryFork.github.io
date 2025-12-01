@@ -1,3 +1,4 @@
+<head><link rel="stylesheet" href="/assets/css/style.css"></head>
 # Portal Prelude
 *[Return Home](index.md)*<br>
 Portal prelude de-rtxed is amazing portal content _except for the shmitty GLaDOS voice_.
