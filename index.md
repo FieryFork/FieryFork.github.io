@@ -9,17 +9,24 @@ I am a Hammer mapper who has made maps for several different source games. Most 
 <hr>
 Here are some things of mine you can check out: 
 <br>
+<br>
 > [Game Design](game.md)
+<br>
 <br>
 > [Hammer Mapping](hammer.md)
 <br>
+<br>
 > [Portal](portal.md)
+<br>
 <br>
 > [Garry's Mod](garrysmod.md)
 <br>
+<br>
 > [My Music](https://soundcloud.com/fieryfork)
 <br>
+<br>
 > [Games](gamez.md)
+<br>
 <br>
 > [3D Models](3d.md)
 <br>
