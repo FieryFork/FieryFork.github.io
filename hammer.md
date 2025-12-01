@@ -1,3 +1,4 @@
+<head><link rel="stylesheet" href="/assets/css/style.css"></head>
 # Hammer
 *[Return Home](index.md)*<br>
 I am a very  active Hammer Mapping Community member. At the time of this writing,
