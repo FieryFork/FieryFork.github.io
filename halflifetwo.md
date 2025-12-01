@@ -1,6 +1,6 @@
 <head><link rel="stylesheet" href="/assets/css/style.css"></head>
 # Half Life 2
-*[Return Home](index.md)*<br>
+*[Return Home](index.md)*<br><br>
 A masterpiece. What else am I supposed to say? This game has peak story, gameplay. and graphics. Although it is now over twenty years old, it still holds up.
 <br>
 I will split up my review of this game by its chapters.
