@@ -1,5 +1,4 @@
 <head><link rel="stylesheet" href="/assets/css/style.css"></head>
-<br>
 # Game Design
 *[Return Home](index.md)*<br>
 <br>
