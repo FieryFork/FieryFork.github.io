@@ -25,6 +25,7 @@ This addon is the *best* way to play deathmatch maps in Garry's Mod: [Half-Life 
 Deathmatch maps need to be very traversable. If deathmatch maps aren't traversable, players won't find it fun to participate in combat.
 <br>
 Here are 4 things you can do to make your map more easily traversable:
+<br>
 > Add more than one door to each room.
 <br>
 > Make it clear what parts of the map are traversable.
