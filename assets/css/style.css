@@ -2,6 +2,7 @@ body {
     background-image: url("/assets/images/portapotty.jpg");
     margin-right: 10%;
     margin-left: 10%;
+    background-size: 30%;
 }
 h1 {
     
@@ -9,7 +10,7 @@ h1 {
     color: white;
     font-weight: 1;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 5px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -19,7 +20,7 @@ h2 {
     color: white;
     font-weight: 1;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 5px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -29,7 +30,7 @@ h3 {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 5px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -39,7 +40,7 @@ h4 {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 5px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -49,7 +50,7 @@ h5 {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 5px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -59,7 +60,7 @@ h6 {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 5px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -69,7 +70,7 @@ p {
     color: gray;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(155, 155, 155, 0.7));
     padding: 10px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -79,7 +80,7 @@ li {
     color: gray;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(155, 155, 155, 0.7));
     padding: 10px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -89,7 +90,7 @@ details {
     color: gray;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(155, 155, 155, 0.7));
     padding: 10px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -99,7 +100,7 @@ a:visited {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(100, 100, 100, 0.3), rgba(55, 55, 55, 0.3));
+    background-image: linear-gradient(to bottom, rgba(100, 100, 100, 0.7), rgba(55, 55, 55, 0.7));
     padding: 3px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -108,7 +109,7 @@ a:link {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 2px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -118,7 +119,7 @@ a:hover {
     color: gray;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(155, 155, 155, 0.7));
     padding: 3px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -128,7 +129,7 @@ dl {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 2px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -138,7 +139,7 @@ dt {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 2px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -152,7 +153,7 @@ audio {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 6px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -162,7 +163,7 @@ audio:hover {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(155, 155, 155, 0.7));
     padding: 6px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -172,7 +173,7 @@ video {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 10px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -182,7 +183,7 @@ video:hover {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(155, 155, 155, 0.7));
     padding: 10px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -192,7 +193,7 @@ address {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 10px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -202,7 +203,7 @@ iframe {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 10px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
     border-width: 0px;
@@ -213,7 +214,7 @@ section {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 10px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
     border-width: 0px;
@@ -224,7 +225,7 @@ img {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.3), rgba(100, 100, 100, 0.3));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.7), rgba(100, 100, 100, 0.7));
     padding: 10px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -234,7 +235,7 @@ img:hover {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(155, 155, 155, 0.7));
     padding: 10px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
@@ -248,7 +249,7 @@ center {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(155, 155, 155, 0.3));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7), rgba(155, 155, 155, 0.7));
     padding: 10px;
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
