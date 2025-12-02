@@ -1,8 +1,7 @@
 body {
-    background-image: linear-gradient(to bottom, #b9e0eb, #96d485, #b9e0eb);
+    background-image: url("assets/images/portapotty.png");
     color: #96d485;
-    margin-left: 40px;
-    margin-right: 40px;
+    width: 80%;
 }
 h1 {
     
