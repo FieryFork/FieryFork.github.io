@@ -32,5 +32,3 @@ Here are some things of mine you can check out:
 > [Art](art.md)
 <br><br>
 > [Required Reading](reading.md)
-<br><br>
-> [Half Life 2](halflifetwo.md)
