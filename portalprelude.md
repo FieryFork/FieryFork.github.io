@@ -7,15 +7,15 @@ in others. Despite this, Portal Prelude is still not the best portal mod out the
 to share some screenshots:
 <br>
 <br>
-![screenshot1](assets/images/prelude1.jpeg)
+<img src="assets/images/prelude1.jpeg" alt="" width="60%">
 <br>
 .
 <br>
-![screenshot2](assets/images/prelude2.jpeg)
+<img src="assets/images/prelude2.jpeg" alt="" width="60%">
 <br>
 .
 <br>
-![screenshot3](assets/images/prelude3.jpeg)
+<img src="assets/images/prelude3.jpeg" alt="" width="60%">
 <br>
 .
 <br>
