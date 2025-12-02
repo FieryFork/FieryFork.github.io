@@ -10,9 +10,9 @@ h1 {
     color: white;
     font-weight: 1;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 5px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 h2 {
     
@@ -20,9 +20,9 @@ h2 {
     color: white;
     font-weight: 1;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 5px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 h3 {
     
@@ -30,9 +30,9 @@ h3 {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 5px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 h4 {
     
@@ -40,9 +40,9 @@ h4 {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 5px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 h5 {
     
@@ -50,9 +50,9 @@ h5 {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 5px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 h6 {
     
@@ -60,9 +60,9 @@ h6 {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 5px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 p {
     
@@ -70,9 +70,9 @@ p {
     color: gray;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(155, 155, 155, 0.5));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6), rgba(155, 155, 155, 0.6));
     padding: 10px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 li {
     
@@ -80,9 +80,9 @@ li {
     color: gray;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(155, 155, 155, 0.5));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6), rgba(155, 155, 155, 0.6));
     padding: 10px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 details {
     
@@ -90,9 +90,9 @@ details {
     color: gray;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(155, 155, 155, 0.5));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6), rgba(155, 155, 155, 0.6));
     padding: 10px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 a:visited {
     
@@ -100,18 +100,18 @@ a:visited {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(100, 100, 100, 0.5), rgba(55, 55, 55, 0.5));
+    background-image: linear-gradient(to bottom, rgba(100, 100, 100, 0.6), rgba(55, 55, 55, 0.6));
     padding: 3px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 a:link {
     font-family: Verdana;
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 2px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 a:hover {
     
@@ -119,9 +119,9 @@ a:hover {
     color: gray;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(155, 155, 155, 0.5));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6), rgba(155, 155, 155, 0.6));
     padding: 3px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 dl {
     
@@ -129,9 +129,9 @@ dl {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 2px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 dt {
     
@@ -139,9 +139,9 @@ dt {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 2px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 dd {
     
@@ -153,9 +153,9 @@ audio {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 6px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 audio:hover {
     
@@ -163,9 +163,9 @@ audio:hover {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(155, 155, 155, 0.5));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6), rgba(155, 155, 155, 0.6));
     padding: 6px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 video {
     
@@ -173,9 +173,9 @@ video {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 10px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 video:hover {
     
@@ -183,9 +183,9 @@ video:hover {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(155, 155, 155, 0.5));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6), rgba(155, 155, 155, 0.6));
     padding: 10px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 address {
     
@@ -193,9 +193,9 @@ address {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 10px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 iframe {
     
@@ -203,9 +203,9 @@ iframe {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 10px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
     border-width: 0px;
 }
 section {
@@ -214,9 +214,9 @@ section {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 10px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
     border-width: 0px;
 }
 img {
@@ -225,9 +225,9 @@ img {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.5), rgba(100, 100, 100, 0.5));
+    background-image: linear-gradient(to bottom, rgba(155, 155, 155, 0.6), rgba(100, 100, 100, 0.6));
     padding: 10px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 img:hover {
     
@@ -235,9 +235,9 @@ img:hover {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(155, 155, 155, 0.5));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6), rgba(155, 155, 155, 0.6));
     padding: 10px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
 p {
     
@@ -249,7 +249,7 @@ center {
     color: white;
     font-weight: 50;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.5), rgba(155, 155, 155, 0.5));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.6), rgba(155, 155, 155, 0.6));
     padding: 10px;
-    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
+    box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.6);
 }
