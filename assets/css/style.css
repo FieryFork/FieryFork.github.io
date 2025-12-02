@@ -1,6 +1,8 @@
 body {
     background-image: linear-gradient(to bottom, #b9e0eb, #96d485, #b9e0eb);
     color: #96d485;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 h1 {
     filter: blur(8px);
