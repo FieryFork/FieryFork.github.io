@@ -3,6 +3,7 @@ body {
     color: #96d485;
 }
 h1 {
+    filter: blur(8px);
     font-family: Roboto;
     color: white;
     font-weight: 1;
@@ -12,6 +13,7 @@ h1 {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 h2 {
+    filter: blur(8px);
     font-family: Roboto;
     color: white;
     font-weight: 1;
@@ -21,6 +23,7 @@ h2 {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 h3 {
+    filter: blur(8px);
     font-family: Roboto;
     color: white;
     font-weight: 50;
@@ -30,6 +33,7 @@ h3 {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 h4 {
+    filter: blur(8px);
     font-family: Roboto;
     color: white;
     font-weight: 50;
@@ -39,6 +43,7 @@ h4 {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 h5 {
+    filter: blur(8px);
     font-family: Roboto;
     color: white;
     font-weight: 50;
@@ -48,6 +53,7 @@ h5 {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 h6 {
+    filter: blur(8px);
     font-family: Roboto;
     color: white;
     font-weight: 50;
@@ -57,6 +63,7 @@ h6 {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 p {
+    filter: blur(8px);
     font-family: arial;
     color: gray;
     font-weight: 50;
@@ -66,6 +73,7 @@ p {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 li {
+    filter: blur(8px);
     font-family: arial;
     color: gray;
     font-weight: 50;
@@ -75,6 +83,7 @@ li {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 details {
+    filter: blur(8px);
     font-family: arial;
     color: gray;
     font-weight: 50;
@@ -84,6 +93,7 @@ details {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 a:visited {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
@@ -102,6 +112,7 @@ a:link {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 a:hover {
+    filter: blur(8px);
     font-family: Verdana;
     color: gray;
     font-weight: 50;
@@ -111,6 +122,7 @@ a:hover {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 dl {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
@@ -120,6 +132,7 @@ dl {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 dt {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
@@ -129,9 +142,11 @@ dt {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 dd {
+    filter: blur(8px);
     padding: 20px;
 }
 audio {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
@@ -141,6 +156,7 @@ audio {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 audio:hover {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
@@ -150,6 +166,7 @@ audio:hover {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 video {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
@@ -159,6 +176,7 @@ video {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 video:hover {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
@@ -168,6 +186,7 @@ video:hover {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 address {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
@@ -177,6 +196,7 @@ address {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 iframe {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
@@ -187,6 +207,7 @@ iframe {
     border-width: 0px;
 }
 section {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
@@ -197,6 +218,7 @@ section {
     border-width: 0px;
 }
 img {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
@@ -206,6 +228,7 @@ img {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 img:hover {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
@@ -215,9 +238,11 @@ img:hover {
     box-shadow: 2px 2px 2px rgba(100, 100, 100, 0.5);
 }
 p {
+    filter: blur(8px);
     margin: 20px;
 }
 center {
+    filter: blur(8px);
     font-family: Verdana;
     color: white;
     font-weight: 50;
