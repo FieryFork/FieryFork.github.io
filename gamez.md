@@ -8,7 +8,7 @@
 [Elders](elders.html)
 <br>
 <br>
-[Retroship](retroship.html)
+[Retroship](retropow.html)
 <br>
 <br>
 Simplephyz uses some tile assets by [griffpatch](https://github.com/griffpatch)
