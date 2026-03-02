@@ -25,6 +25,9 @@ Here are some things of mine you can check out:
 > [My Music](https://soundcloud.com/fieryfork)
 <br>
 <br>
+> [Calculator Projects](texas.md)
+<br>
+<br>
 > [Games](gamez.md)
 <br>
 <br>
